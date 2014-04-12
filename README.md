@@ -9,7 +9,7 @@ The need of asteroid exploration is completely not based on the potential human 
 
 The most prominent zone for asteroid belt is in between Mars and Jupiter. Jupiter saves inner zone rocky planets from asteroid impact due to its prominent gravitational force. However, orbital resonance is the vital reason for the asteroids to be thrown out of their regular orbits and travel inside the inner planet zone as ballistic missiles. These are the most dangerous asteroids which need critical observation. There lies the underlying emerging need to launch more satellites in Mars orbit for better visualization, prediction and study of the orbits and asteroids itself.  Henceforth, prediction of asteroids from Mars gives an added advantage of time in case of potential hazardeous threat to Earth.
 
-The information which we think can be used for graphical representation is closest distance of asteroid to Earth, its orbital time, its size and its uncertainity factor defining how sure are we about its orbit.
+The information which we think can be used for graphical representation is closest distance of asteroid to Earth, its orbital time, its size and its uncertainity factor defining how sure are we about its orbit. Also, will be important to know the dates for the asteroid's closeness to Earth.
 
 
 
