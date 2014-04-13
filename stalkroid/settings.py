@@ -128,6 +128,7 @@ INSTALLED_APPS = (
     'stalker',
     'django.contrib.admin',
     'django.contrib.admindocs',
+    'django_extensions',
 )
 
 # A sample logging configuration. The only tangible logging
