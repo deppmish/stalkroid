@@ -1,4 +1,5 @@
 # Django settings for stalkroid project.
+import os
 
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
@@ -30,6 +31,8 @@ ALLOWED_HOSTS = []
 # although not all choices may be available on all operating systems.
 # In a Windows environment this must be set to your system time zone.
 TIME_ZONE = 'Europe/Berlin'
+
+PROJECT_ROOT = os.path.abspath(os.path.dirname(__file__))
 
 # Language code for this installation. All choices can be found here:
 # http://www.i18nguy.com/unicode/language-identifiers.html
@@ -111,6 +114,7 @@ TEMPLATE_DIRS = (
     # Put strings here, like "/home/html/django_templates" or "C:/www/django/templates".
     # Always use forward slashes, even on Windows.
     # Don't forget to use absolute paths, not relative paths.
+    os.path.join(PROJECT_ROOT, "../base/templates"),
 )
 
 INSTALLED_APPS = (
