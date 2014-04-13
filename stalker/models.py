@@ -11,6 +11,7 @@ class Asteroid(models.Model):
     diameter = models.FloatField()
     uncertainity = models.FloatField()
     confidence = models.FloatField()
+    seen_today = models.BooleanField()
 
     def get_confidence(self, uncertainity):
         confidence = 100 - (uncertainity * 10)
