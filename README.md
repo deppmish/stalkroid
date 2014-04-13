@@ -9,18 +9,13 @@ The need of asteroid exploration is completely not based on the potential human 
 
 The most prominent zone for asteroid belt is in between Mars and Jupiter. Jupiter saves inner zone rocky planets from asteroid impact due to its prominent gravitational force. However, orbital resonance is the vital reason for the asteroids to be thrown out of their regular orbits and travel inside the inner planet zone as ballistic missiles. These are the most dangerous asteroids which need critical observation. There lies the underlying emerging need to launch more satellites in Mars orbit for better visualization, prediction and study of the orbits and asteroids itself.  Henceforth, prediction of asteroids from Mars gives an added advantage of time in case of potential hazardeous threat to Earth.
 
-Stalkroid project emphasizes on tracking of asteroids which are in close proximity to Earth on a daily basis. The data information which we are using for graphical representation is taken from The Minor Planet Center, or MPC. We show the number of asteroids that come in close proximity to our planet on day to day basis. 
+#Stalkroid project emphasizes on tracking of asteroids which are in close proximity to Earth on a daily basis. The data information which we are using for graphical representation is taken from Nasa's Near Earth Object Program. We show the number of asteroids that come in close proximity to our planet on day to day basis. The information conveyed are asteroid's name, its size in meters, its relative velocity. The date mentioned is the date of its closeness to Earth. 
 
-
-The information conveyed are asteroid's name, its size in meters, its closest distance to Earth in Kilometers and confidence in terms of percentage defining how sure are we about the measurements. The date mentioned is the date of observation. Some of the data conveyed are pre processed data, derived from original data for better insight and understanding of the asteroids. 
-
-Size is calculated from the Absolute Magnitude of the asteroid(1). It is just an approximation of size as the parameter Asteroid Albedo varies randomly. Asteroid albedo is the fraction of light reflected by the asteroid's body. As asteroid's shape is mostly irregular, the albedo factor changes with the angle of observation. Confidence in percentage is taken from the uncertainity factor evaluated in the original data. 
-
-Using this project, amateur astronauts, space techies and scientists can observe and track these asteroids, study their orbital behaviour, analyse the gravitational impacts. Various observatories and labrotaries can perform experiments using infrared, ultraviolet or x ray imaging spectroscopy to study the chemistry and science of material of these asteroids.
+##Using this project, amateur astronauts, space techies and scientists can observe and track these asteroids, study their orbital behaviour, analyse the gravitational impacts. Various observatories and labrotaries can perform experiments using infrared, ultraviolet or x ray imaging spectroscopy to study the chemistry and science of material of these asteroids.
 
 
 
-(1). Reference : http://www.physics.sfasu.edu/astro/asteroids/sizemagnitude.html)
+
 
 
 
