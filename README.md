@@ -16,7 +16,7 @@ The information conveyed are asteroid's name, its size in meters, its closest di
 
 Size is calculated from the Absolute Magnitude of the asteroid(1). It is just an approximation of size as the parameter Asteroid Albedo varies randomly. Asteroid albedo is the fraction of light reflected by the asteroid's body. As asteroid's shape is mostly irregular, the albedo factor changes with the angle of observation. Confidence in percentage is taken from the uncertainity factor evaluated in the original data. 
 
-##Using this project, amateur astronauts, space techies and scientists can observe and track these asteroids, study their orbital behaviour, analyse the gravitational impacts. Various observatories and labrotaries can perform experiments using infrared, ultraviolet or x ray imaging spectroscopy to study the chemistry and science of material of these asteroids.
+Using this project, amateur astronauts, space techies and scientists can observe and track these asteroids, study their orbital behaviour, analyse the gravitational impacts. Various observatories and labrotaries can perform experiments using infrared, ultraviolet or x ray imaging spectroscopy to study the chemistry and science of material of these asteroids.
 
 
 
