@@ -18,3 +18,10 @@ hr {
 .img-responsive {
     display: inline;
 }
+
+.circle {
+border-radius: 50%;
+display: inline-block;
+margin-right: 20px;
+background: #eadc00;
+}
